@@ -10,6 +10,7 @@ Columns :
 2. group_id - Category code of the product
 3. entity_name - Product entity name
 4. entity_value
+   
 The test data : 131187
 Columns :
 1. index - An unique identifier
