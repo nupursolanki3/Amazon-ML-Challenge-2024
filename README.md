@@ -18,6 +18,10 @@ Columns :
 3. group_id - Category code of the product
 4. entity_name - Product entity name
 
+# Solutions :
+extract entity from image.ipynb - This file contains how through OCR the image is read and entity can be extracted.
+
+
 
 
 
